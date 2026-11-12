@@ -25,6 +25,7 @@ Tokenized stocks and other assets with a liquid market price are out of scope. C
 | Fuzzing, formal verification and conformance tests | [11 Testing and security](tools/11-testing-and-security.md) |
 | Event indexing, investor statements and audit trails | [12 Indexing and reporting](tools/12-indexing-and-reporting.md) |
 | Using tokenized credit as collateral and in lending markets | [13 DeFi composability](tools/13-defi-composability.md) |
+| Allocating vault funds, setting caps and monitoring risk | [14 Curation and risk](tools/14-curation-and-risk.md) |
 
 ## Blueprints
 
